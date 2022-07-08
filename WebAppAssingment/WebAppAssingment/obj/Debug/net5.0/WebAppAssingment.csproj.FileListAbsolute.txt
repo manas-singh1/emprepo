@@ -143,3 +143,8 @@ D:\DotnetWebapp\WebAppAssingment\WebAppAssingment\obj\Debug\net5.0\refint\WebApp
 D:\DotnetWebapp\WebAppAssingment\WebAppAssingment\obj\Debug\net5.0\WebAppAssingment.pdb
 D:\DotnetWebapp\WebAppAssingment\WebAppAssingment\obj\Debug\net5.0\WebAppAssingment.genruntimeconfig.cache
 D:\DotnetWebapp\WebAppAssingment\WebAppAssingment\obj\Debug\net5.0\ref\WebAppAssingment.dll
+D:\DotnetWebapp\WebAppAssingment\WebAppAssingment\obj\Debug\net5.0\Razor\Views\Emps\Create.cshtml.g.cs
+D:\DotnetWebapp\WebAppAssingment\WebAppAssingment\obj\Debug\net5.0\Razor\Views\Emps\Delete.cshtml.g.cs
+D:\DotnetWebapp\WebAppAssingment\WebAppAssingment\obj\Debug\net5.0\Razor\Views\Emps\Details.cshtml.g.cs
+D:\DotnetWebapp\WebAppAssingment\WebAppAssingment\obj\Debug\net5.0\Razor\Views\Emps\Edit.cshtml.g.cs
+D:\DotnetWebapp\WebAppAssingment\WebAppAssingment\obj\Debug\net5.0\Razor\Views\Emps\Index.cshtml.g.cs
